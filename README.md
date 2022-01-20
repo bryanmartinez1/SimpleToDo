@@ -21,6 +21,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
+            - Creating the edit screen
+            - Been able to group tasks together into a folder
 
 ## Video Walkthrough
 
